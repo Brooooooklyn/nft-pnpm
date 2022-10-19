@@ -1,0 +1,17 @@
+{
+  "name": "nft-pnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "nft build index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vercel/nft": "^0.22.1",
+    "esbuild": "^0.15.11"
+  },
+  "packageManager": "pnpm@7.13.5"
+}
